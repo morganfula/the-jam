@@ -12,6 +12,7 @@ html,
 body {
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -20,8 +21,7 @@ body {
   justify-content: center;
   background-color: black;
   color: black;
-  font-family: neue-haas-grotesk-display, 'Helvetica Neue', Helvetica,
-    sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 600;
   font-style: normal;
   font-size: 21px;
@@ -37,7 +37,6 @@ body {
   visibility: hidden;
   background: red;
   cursor: pointer;
-  // overflow: hidden;
 }
 
 .jam {
