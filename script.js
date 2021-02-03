@@ -1,5 +1,3 @@
-console.clear();
-
 select = (e) => document.querySelector(e);
 selectAll = (e) => document.querySelectorAll(e);
 
